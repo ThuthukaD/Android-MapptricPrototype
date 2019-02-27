@@ -1,0 +1,275 @@
+{
+  "project_info": {
+    "project_number": "151553803863",
+    "firebase_url": "https://fir-auth-fb459.firebaseio.com",
+    "project_id": "fir-auth-fb459",
+    "storage_bucket": "fir-auth-fb459.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151553803863:android:d3ceb10f690788f3",
+        "android_client_info": {
+          "package_name": "com.example.desel.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151553803863-2iu60ggj7g8cg551c3b3lf6c16rhjt3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.desel.firebaseauth",
+            "certificate_hash": "9896629d380eb84f83d83532ce4b5e1241295378"
+          }
+        },
+        {
+          "client_id": "151553803863-qum4m7o4ln9dcvqe694qhqnkatcu38no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ1S2W0CNL_AmYQcOHjAFJZ4RcUJHRfg8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151553803863-qum4m7o4ln9dcvqe694qhqnkatcu38no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151553803863:android:f514bdde71c2e293",
+        "android_client_info": {
+          "package_name": "com.example.desel.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151553803863-qojh2klqkeljpmkek5s1nggib109knso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.desel.firebasedatabase",
+            "certificate_hash": "9896629d380eb84f83d83532ce4b5e1241295378"
+          }
+        },
+        {
+          "client_id": "151553803863-qum4m7o4ln9dcvqe694qhqnkatcu38no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ1S2W0CNL_AmYQcOHjAFJZ4RcUJHRfg8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151553803863-qum4m7o4ln9dcvqe694qhqnkatcu38no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151553803863:android:0288c2df6c670e6c",
+        "android_client_info": {
+          "package_name": "com.example.desel.firebasedatabasereading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151553803863-9s3q4mi927dhlj7l665v15cpe2pbe63t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.desel.firebasedatabasereading",
+            "certificate_hash": "9896629d380eb84f83d83532ce4b5e1241295378"
+          }
+        },
+        {
+          "client_id": "151553803863-qum4m7o4ln9dcvqe694qhqnkatcu38no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ1S2W0CNL_AmYQcOHjAFJZ4RcUJHRfg8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151553803863-qum4m7o4ln9dcvqe694qhqnkatcu38no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151553803863:android:e772da382a23c4a4",
+        "android_client_info": {
+          "package_name": "com.example.desel.firebasedataread"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151553803863-i1r36qnt7evkfui83rlrhqfcuk2c5dn0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.desel.firebasedataread",
+            "certificate_hash": "9896629d380eb84f83d83532ce4b5e1241295378"
+          }
+        },
+        {
+          "client_id": "151553803863-qum4m7o4ln9dcvqe694qhqnkatcu38no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ1S2W0CNL_AmYQcOHjAFJZ4RcUJHRfg8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151553803863-qum4m7o4ln9dcvqe694qhqnkatcu38no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151553803863:android:5b6e017627b438aa",
+        "android_client_info": {
+          "package_name": "com.example.desel.fitnesslite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151553803863-0rd2fi76sl3sl4lb4f74n9cp6bgb0361.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.desel.fitnesslite",
+            "certificate_hash": "9896629d380eb84f83d83532ce4b5e1241295378"
+          }
+        },
+        {
+          "client_id": "151553803863-qum4m7o4ln9dcvqe694qhqnkatcu38no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ1S2W0CNL_AmYQcOHjAFJZ4RcUJHRfg8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151553803863-qum4m7o4ln9dcvqe694qhqnkatcu38no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151553803863:android:72c58d9a7a24fe87",
+        "android_client_info": {
+          "package_name": "com.example.desel.mapptricprototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151553803863-2b28u6b4mn2fpv42ugn2gjo0dhdbrddm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.desel.mapptricprototype",
+            "certificate_hash": "9896629d380eb84f83d83532ce4b5e1241295378"
+          }
+        },
+        {
+          "client_id": "151553803863-qum4m7o4ln9dcvqe694qhqnkatcu38no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ1S2W0CNL_AmYQcOHjAFJZ4RcUJHRfg8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151553803863-qum4m7o4ln9dcvqe694qhqnkatcu38no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
